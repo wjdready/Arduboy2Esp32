@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "hash_map": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "regex": "cpp",
+        "*.tpp": "cpp",
+        "random": "cpp",
+        "ab_logo.c": "cpp",
+        "unordered_set": "cpp",
+        "system_error": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
